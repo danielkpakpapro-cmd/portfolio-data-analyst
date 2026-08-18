@@ -17,7 +17,7 @@ la structuration et la valorisation des données.
 
 ### CV
 
-[📄 Consulter mon CV](./CV_Daniel_KPAKPA.pdf)
+[📄 Consulter mon CV](CV.pdf)
 
 ### Projets
 
